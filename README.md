@@ -1,2 +1,2 @@
-# projects
-random projects in here
+# Projects
+Don't know what will go in here yet. 
