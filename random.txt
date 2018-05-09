@@ -1,3 +1,5 @@
-a = b
-b = c
-c = d
+s = x
+h = j
+p = u
+a = x;
+b = d;
